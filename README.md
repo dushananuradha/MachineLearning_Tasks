@@ -1,3 +1,3 @@
-#### MachineLearning_Tasks
-# Required libraries 
-# TensorFlow, PIL, Numpy
+### MachineLearning_Tasks
+#### Required libraries 
+#### TensorFlow, PIL, Numpy
